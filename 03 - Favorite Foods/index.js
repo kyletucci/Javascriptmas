@@ -16,6 +16,7 @@ and for supper I want usually want pizza 🍕.
 
 const mealsEl = document.getElementById('meals')
 
+// Create object to keep food in
 const faveFoods = {
     breakfast: 'croissants 🥐',
     lunch: 'pasta 🍝',
